@@ -1,0 +1,9 @@
+tensorflow-cpu
+pandas
+numpy
+opencv-python
+matplotlib
+bs64
+ipython
+tqdm
+genesis-world

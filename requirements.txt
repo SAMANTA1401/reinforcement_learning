@@ -7,3 +7,4 @@ bs64
 ipython
 tqdm
 genesis-world
+hmmlearn

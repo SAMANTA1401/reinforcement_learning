@@ -8,3 +8,6 @@ ipython
 tqdm
 genesis-world
 hmmlearn
+torch
+transformers 
+stable-baselines3
